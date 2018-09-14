@@ -25,3 +25,17 @@ C:\Users\Vuk\source\repos\Unit-Tests\Ex1\TestNinja\obj\Debug\TestNinja.csproj.Co
 C:\Users\Vuk\source\repos\Unit-Tests\Ex1\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
 C:\Users\Vuk\source\repos\Unit-Tests\Ex1\TestNinja\obj\Debug\TestNinja.dll
 C:\Users\Vuk\source\repos\Unit-Tests\Ex1\TestNinja\obj\Debug\TestNinja.pdb
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja\bin\Debug\TestNinja.dll
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja\bin\Debug\TestNinja.pdb
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja\bin\Debug\EntityFramework.dll
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja\bin\Debug\EntityFramework.xml
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja\obj\Debug\TestNinja.csprojAssemblyReference.cache
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja\obj\Debug\TestNinja.pdb
