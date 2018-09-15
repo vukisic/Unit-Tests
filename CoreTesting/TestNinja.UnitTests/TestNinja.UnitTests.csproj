@@ -58,6 +58,9 @@
     <Compile Include="MathTests.cs" />
     <Compile Include="StringTests.cs" />
     <Compile Include="CollectionsTests.cs" />
+    <Compile Include="TypeTests.cs" />
+    <Compile Include="EventTests.cs" />
+    <Compile Include="VoidAndExceptionTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
