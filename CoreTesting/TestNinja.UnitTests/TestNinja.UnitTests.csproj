@@ -60,6 +60,9 @@
     <Compile Include="CollectionsTests.cs" />
     <Compile Include="TypeTests.cs" />
     <Compile Include="EventTests.cs" />
+    <Compile Include="FizzBuzzTests.cs" />
+    <Compile Include="CalculatorTests.cs" />
+    <Compile Include="StackTests.cs" />
     <Compile Include="VoidAndExceptionTests.cs" />
   </ItemGroup>
   <ItemGroup>

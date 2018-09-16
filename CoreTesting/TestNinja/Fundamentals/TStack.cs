@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace TestNinja.Fundamentals
 {
-    public class Stack<T>
+    public class TStack<T>
     {
         private readonly List<T> _list = new List<T>();
 
