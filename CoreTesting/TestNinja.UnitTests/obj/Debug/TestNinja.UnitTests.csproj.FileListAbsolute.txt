@@ -58,3 +58,12 @@ C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja.UnitTests\obj\Debug\T
 C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csproj.CopyComplete
 C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.dll
 C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.pdb
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja.UnitTests\bin\Debug\Castle.Core.dll
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja.UnitTests\bin\Debug\Moq.dll
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja.UnitTests\bin\Debug\System.ValueTuple.dll
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja.UnitTests\bin\Debug\Castle.Core.xml
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja.UnitTests\bin\Debug\Moq.pdb
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja.UnitTests\bin\Debug\Moq.xml
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vuk\source\repos\Unit-Tests\CoreTesting\TestNinja.UnitTests\bin\Debug\System.ValueTuple.xml
