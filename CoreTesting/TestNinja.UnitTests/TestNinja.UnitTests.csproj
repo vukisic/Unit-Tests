@@ -71,6 +71,7 @@
     <Compile Include="Exercises\VideoServiceTestsE.cs" />
     <Compile Include="Mocking\OrderServiceTests.cs" />
     <Compile Include="Mocking\ProductTests.cs" />
+    <Compile Include="Mocking\BookingTests.cs" />
     <Compile Include="ReservationTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="MathTests.cs" />
